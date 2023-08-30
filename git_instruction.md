@@ -180,4 +180,6 @@ git checkout
 git diff
 ```
 
+Ветвление
+
 ![Спасибо за внимание!](smile.jpg)

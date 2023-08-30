@@ -179,3 +179,5 @@ git checkout
 ```
 git diff
 ```
+
+![Спасибо за внимание!](smile.jpg)
